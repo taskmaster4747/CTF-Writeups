@@ -518,7 +518,7 @@ I also learned that DFIR is not simply about finding suspicious strings or ident
 
 ---
 
-# Appendix A — Commands Used During Investigation
+# — Commands Used During Investigation
 
 The following commands are taken from my investigation notes.
 
