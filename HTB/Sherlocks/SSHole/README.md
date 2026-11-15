@@ -3,7 +3,7 @@
 **Platform:** Hack The Box  
 **Challenge:** SSHole  
 **Category:** Sherlock  
-**Difficulty:** Hard  
+**Difficulty:** Easy  
 **Operating System:** Alpine Linux 3.24.3  
 **Status:** Completed — 7/7 Tasks
 
