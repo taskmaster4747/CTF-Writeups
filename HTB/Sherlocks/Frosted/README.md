@@ -586,16 +586,3 @@ PY
 rg -n -a -i -C 12 'RPT-1057|Untitled' checkpoint/pages-1_strings.txt container.log dump.log
 ```
 
-**Note:** This appendix records commands visible in my investigation notes. It is not claimed to be a complete command history.
-
-# Appendix B — Publication and Evidence Notes
-
-Before making this report public:
-
-- Add exact evidence line numbers and memory offsets for every answer.
-- Add the full Task 5 answer to the private version; redact credentials from the public version.
-- Add the exact evidence supporting Task 7.
-- Add screenshots of important terminal results.
-- Verify the chronology against original timestamps.
-- Verify Hack The Box's Sherlock publication rules.
-- Do not upload original challenge evidence or potentially sensitive credentials to a public repository.
