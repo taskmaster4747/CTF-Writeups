@@ -1,4 +1,4 @@
- Hack The Box Write-up: SpookyPass
+# Hack The Box Write-up: SpookyPass
 
 Category: Reverse Engineering  
 Challenge: SpookyPass  
